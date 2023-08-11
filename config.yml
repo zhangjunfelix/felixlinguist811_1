@@ -68,3 +68,5 @@ menu:
 
 
 ignoreErrors: ["error-remote-getjson"]
+
+ignoreErrors: ["error-remote-getjson"]
