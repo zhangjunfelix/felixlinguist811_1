@@ -65,3 +65,6 @@ menu:
         name: Archives
         url: /archives/
         weight: 700
+
+
+ignoreErrors: ["error-remote-getjson"]
