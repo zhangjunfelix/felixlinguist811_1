@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Publications on Felix, a linguist</title>
+    <link>/publications/</link>
+    <description>Recent content in Publications on Felix, a linguist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jun 2023 13:57:00 +0800</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>/publications/pub/</link>
+      <pubDate>Thu, 22 Jun 2023 13:57:00 +0800</pubDate>
+      
+      <guid>/publications/pub/</guid>
+      <description>2023 Zhang, Jun, &amp;amp; Wu, Yan. (2023). “Yixie” is likely not created equal for everyone: Distinct reasoning procedures in interpreting the same scalar quantifier. Lingua, 288, 103523. Link to fulltext
+2022 Zhang, Jun, &amp;amp; Wu, Yan. (2022). Epistemic reasoning in pragmatic inferencing by non-native speakers: The case of scalar implicatures. Second Language Research, 02676583211069735. Link to fulltext
+2020 Zhang, Jun, &amp;amp; Wu, Yan. (2020). Only youxie think it is a nice thing to say: Interpreting scalar items in face-threatening contexts by native Chinese speakers.</description>
+    </item>
+    
+  </channel>
+</rss>

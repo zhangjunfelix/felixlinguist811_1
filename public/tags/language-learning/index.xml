@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>language learning on Felix, a linguist</title>
+    <link>/tags/language-learning/</link>
+    <description>Recent content in language learning on Felix, a linguist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Jun 2023 22:39:05 +0800</lastBuildDate><atom:link href="/tags/language-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Non-native language learning/acquisition</title>
+      <link>/projects/nonnative/</link>
+      <pubDate>Tue, 20 Jun 2023 22:39:05 +0800</pubDate>
+      
+      <guid>/projects/nonnative/</guid>
+      <description>In this project, you will get to know my research in non-native language acquisition/learning. </description>
+    </item>
+    
+  </channel>
+</rss>

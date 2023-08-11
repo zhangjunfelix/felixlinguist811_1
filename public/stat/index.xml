@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Statistics on Felix, a linguist</title>
+    <link>/stat/</link>
+    <description>Recent content in Statistics on Felix, a linguist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jul 2023 16:18:30 +0800</lastBuildDate><atom:link href="/stat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bayesian</title>
+      <link>/stat/bayesian/</link>
+      <pubDate>Sun, 09 Jul 2023 16:17:11 +0800</pubDate>
+      
+      <guid>/stat/bayesian/</guid>
+      <description>dfdfdfd</description>
+    </item>
+    
+    <item>
+      <title>Frequentist</title>
+      <link>/stat/frequentist/</link>
+      <pubDate>Sun, 09 Jul 2023 16:16:56 +0800</pubDate>
+      
+      <guid>/stat/frequentist/</guid>
+      <description>dfdfdf</description>
+    </item>
+    
+  </channel>
+</rss>

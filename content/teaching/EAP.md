@@ -1,0 +1,115 @@
+---
+title: "EAP"
+date: 2023-07-07T11:36:14+08:00
+draft: true
+
+cover: 
+  image: images/EAP.jpg
+  caption: https://rdesacademy.com/en/دوره-eap/ (source)
+---
+
+### WAE192 ###
+
+#### COURSE DESCRIPTION ####
+
+The purpose of WAE 192 is to provide students with writing experiences designed to help them express ideas effectively in sentences, paragraphs, and essays.  Students will develop writing skills with the use of the dictionary, practicing structures of written English, and learning to edit in preparation for advanced editing in WAE 194.  To accomplish these goals, students work on expanding their English competence on the sentence level, expanding their vocabulary through reading and the use of the dictionary, developing strategies that promote independence in writing, and editing personal and peer writing. Grammar proficiency tests are administered throughout the semester. These tests emphasize the use of particular grammatical points in the context of a creative effort on the part of the student. 
+
+
+#### COURSE OBJECTIVES ####
+
+After completing this class, students will be able to:
+
+1.	Write correctly structured English sentences and paragraphs.  
+2.	Write sentences and paragraphs using appropriate vocabulary that clearly convey meaning.  
+3.	Edit for grammatical structure and accuracy.  
+4.	Write cohesive paragraphs and an essay.  
+
+#### TEXTBOOK AND COURSE MATERIALS ####
+
+- *Grammar and Beyond 2e Level 3*  (Cambridge University Press)                       
+  
+- *Better Writing Through Editing* by Peterson and Hagen (Handouts)
+
+#### UNIT FOCUS ####
+
+Module 1: Writing a Paragraph I _ Paragraph Structure   
+-	The Three Parts of a Paragraph  
+- The Topic Sentence  
+-	Supporting Sentences  
+-	The Concluding Sentences  
+
+Module 1: Writing a Paragraph II _ Unity and Coherence   
+-	Unity   
+-	Coherence    
+-	Repetition of Key Nouns   
+-	Key Noun Substitutes  
+-	Consistent Pronouns   
+-	Transition Signals  
+-	Logic Order  
+
+Module 1: Writing a Paragraph III _ Supporting Details   
+-	Facts VS Opinions  
+-	Using Outside Sources  
+-	Quotations  
+-	Statistics  
+
+Module 2: Narration and Description  
+-	Understand What Narration Is  
+-	Read and Writing Narration: Student Narratives  
+-	Read and Writing Narration: Professional Narratives   
+
+Module 3: Illustration  
+-	Understand What Illustration Is  
+-	Read and Writing Illustration: Student Illustration   
+-	Read and Writing Illustration: Professional Illustration  
+
+Module 4 Process Analysis  
+-	Understand What Process Analysis Is  
+-	Read and Writing Process Analysis: Student Process Analysis  
+-	Read and Writing Process Analysis: Professional Process Analysis   
+
+Module 5 Classification   
+-	Understand What Classification Is   
+-	Read and Writing Classification: Student Classification   
+-	Read and Writing Classification: Professional Classification   
+
+Module 6 Comparison and Contrast   
+-	Understand What Comparison and Contrast Is   
+-	Read and Writing Comparison and Contrast: Student Comparison and Contrast   
+-	Read and Writing Comparison and Contrast: Professional Comparison and Contrast   
+
+Module 7 Cause and Effect    
+-	Understand What Cause and Effect Is   
+-	Read and Writing Cause and Effect: Student Cause and Effect   
+-	Read and Writing Cause and Effect: Professional Cause and Effect  
+
+
+
+
+### WAE194 ###
+
+#### COURSE DESCRIPTION ####    
+The purpose of WAE194 is to provide students with writing experiences designed to improve their academic essay writing skills through the process of prewriting, drafting, and revising. It also strives to build confidence, fluency and grammatical correctness in students’ writing generally, and it serves as preparation for WRT100.  To accomplish these goals, students work on expanding their English competence on the sentence and paragraph levels. Specifically, they work on strategies that promote independence and self-evaluation of their own and others’ writing and produce at least two revised essays.  
+
+#### COURSE OBJECTIVES ####
+1.	Write correctly structured English sentences and paragraphs.  
+2.	Write sentences and paragraphs using appropriate vocabulary that clearly conveys meaning.  
+3.	Edit student’s own and others’ writing for content and grammatical accuracy.  
+4.	Write cohesive paragraphs and essays.  
+5.	Paraphrase on the sentence level.  
+
+#### TEXTBOOK AND COURSE MATERIALS ####
+
+- *Grammar and Beyond 2e Level 3*  (Cambridge University Press)                       
+  
+- *Better Writing Through Editing* by Peterson and Hagen (Handouts)
+
+
+#### UNIT FOCUS ####
+Module 1 Academic Integrity  
+Module 2 Expository writing  
+Module 3 Summary and response  
+Module 4 Argumentative writing  
+
+
+![EAP](/images/EAP.jpg)

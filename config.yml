@@ -1,0 +1,67 @@
+baseURL: ""
+languageCode: en-us 
+title: Felix, a linguist
+theme: "PaperMod"
+
+      
+params:
+  homeInfoParams:
+     Title: "Felix, a linguist"
+     Content: Welcome to Felix's website!  Here you'll get to know my work as a linguist.
+     
+
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/"
+    - name: facebook
+      url: "https://facebook.com/"
+    - name: instagram
+      url: "http://instagram.com/"
+
+  cover:
+     linkFullImages: false
+     
+
+  
+
+menu:
+   main: 
+      - identifier: about
+        name: About
+        url: /about/
+        weight: 100
+      - identifier: projects
+        name: Projects
+        url: /projects/
+        weight: 200
+      - identifier: teaching
+        name: Teaching
+        url: /teaching/
+        weight: 300
+      - identifier: publications
+        name: Publications
+        url: /publications/
+        weight: 400
+      - identifier: statistics
+        name: Statistics
+        url: /stat/
+        weight: 500     
+      - identifier: interests
+        name: Interests
+        url: /interests/
+        weight: 600
+      - identifier: sports
+        name: Sports
+        url: /interests/sports/
+        parent: interests
+        weight: 610
+      - identifier: music
+        name: Music
+        url: /interests/music/
+        parent: interests
+        weight: 620
+      - identifier: archives
+        name: Archives
+        url: /archives/
+        weight: 700

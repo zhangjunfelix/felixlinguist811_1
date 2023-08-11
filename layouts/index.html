@@ -1,0 +1,9 @@
+{{ define "main" }}
+{{ .Title }}
+
+{{ with .Params.subtitle }} {{ . }} {{ end }}
+{{ .Content }}
+{{ range first 10 .Site.RegularPages }} {{ .Render "summary" }} {{ end }}
+{{ end }}
+
+
